@@ -4,3 +4,6 @@ A flutter app for digitization of the process of creating prescription for the p
 The keywords from the voice input such as patient details like name, age and gender, symptoms, doctor's diagnosis, prescription and general advice are tagged using NLP.
 The predictive diagnosis is done with the help of ML.
 The entire android app is developed using flutter. 
+
+# API can be found at
+https://github.com/owaisjh/Voice-Prescription---API
